@@ -9,7 +9,7 @@
     "dev": "nodemon index.js",
     "cluster": "node cluster.js"
   },
-  "author": "Ramon Gimenes",
+  "author": "Ramon Gimenes de Campos",
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.437.0",
